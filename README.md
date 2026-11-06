@@ -20,8 +20,7 @@ https://codd.cs.gsu.edu/~tpalaniappa1/Web/HW/hw3/index.php
 **GitHub Repository:**  
 https://github.com/thiruna31/web-pro-hw3
 
-**Course Homepage:**  
-https://codd.cs.gsu.edu/~tpalaniappa1/
+
 
 ## Technologies Used
 
